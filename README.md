@@ -6,7 +6,7 @@ Ses estara actualizando el repositorio cada 2 semanas para que se muestren los a
 Colaboradores:
 Se deja como colaborardor a las siguientes personas responsables de mantener el repositoio en constante actualizacion y orden.
 1. Hiram Lopez [hiramcitolopez@gmail.com]
-2. Gerardo Ramirez Cruz [rodriguezramirezgerardo72@gmail.com]
+2. Gerardo Ramirez Cruz [rodriguezramirez72@gmail.com]
 3. David Emiliano [emirodriguezcruz2008@gmail.com]
 
 Como anteriormente se acordo se estaran dejando las 24 horas del dia los 7 dias de la semana la disponibilidad de las personas alojadas en este documento para la aclaracion y/o cambio de algun movimiento en el repositoio, 
